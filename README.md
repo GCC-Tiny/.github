@@ -1,1 +1,3 @@
-# Tiny GCC Frontend, a step by step guide by Roger Ferrer Ibáñez 
+# Tiny GCC Frontend
+## A step by step guide by Roger Ferrer Ibáñez 
+[Table of Contents](profile/README.md)
