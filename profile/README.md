@@ -1,8 +1,12 @@
 # GCC Tiny
 ![](https://readthedocs.org/projects/gcc-tiny-docs-rtd/badge/?version=latest)
 
-## A tutorial about the creation of GCC frontend parsers originally by Roger Ferrer Ibáñez
+## Step by step guide creating GCC frontend parsers
 
-[Current Documentation](http://gcc-tiny-docs-rtd.readthedocs.io/) updated by the GCC Tiny staff
+Originally by Roger Ferrer Ibáñez.
+
+[Current Documentation](http://gcc-tiny-docs-rtd.readthedocs.io/) updated by the GCC Tiny Project
 
 The original, unedited blog posts are [here](https://thinkingeek.com/gcc-tiny/).
+
+The guide starts with a fresh clone of GCC and describes all the necessary steps to create a functioning compiler.
